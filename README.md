@@ -1,13 +1,12 @@
-- 👋 Hi, I’m Dakota!
--  🤘 Longhorn Alumni and recent graduate from New York University's Stern School of Business where I studied Data Science and Business Computing!
-- 👀 I’m interested in artificial intelligence, data science and all things tech!...
-- 🌱 I’m currently learning how to code smart contracts, play the ukelele and navigate the streets of New York City...
-- 💞️ I’m looking to collaborate on anything and everything - if you have a cool project (preferrably data science-oriented), I am always interested...
+👋 Hey there, I’m Dakota!
+🧑‍💻 A proud Longhorn alum and recent NYU Stern grad with a passion for Data Science, Business Computing, and occasionally getting lost in the streets of NYC (still learning how to navigate them... help?).
 
-  
-    📫How to reach me - send me a message anytime - dakota.schey@gmail.com or at my LinkedIn profile (https://www.linkedin.com/in/dakota-schey/)...
+💡 Currently diving into smart contracts, blockchain, and other crypto wizardry (Uniswap fan here!), while also trying to master the ukulele—because hey, who said data scientists can’t jam?
 
-<!---
-dschey123/dschey123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🤖 My tech heart beats for AI, predictive modeling, and making data dance through machine learning projects. If it's about turning raw data into actionable insights, I'm in. From healthcare projects that help save lives (seriously cool stuff) to scraping the web for real-time crypto sentiment, I’m all about combining curiosity with code.
+
+💼 When I'm not plotting new algorithms or building models, you can find me experimenting with NLP, working on sentiment analysis for medical data (healthcare has never been more predictive), and even dabbling in marketing analytics with a splash of A/B testing.
+
+💬 I’m always open to collaborating on anything data science-related! Have a wacky idea, cool startup, or the next big AI project? Let’s connect—no idea is too big, small, or weird.
+
+📫 Reach me anytime at dakota.schey@gmail.com or find me on LinkedIn.
